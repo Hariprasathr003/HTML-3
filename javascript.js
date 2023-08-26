@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", hari() {
+document.addEventListener("DOMContentLoaded", function() {
     const ctaButton = document.getElementById("ctaButton");
 
-    ctaButton.addEventListener("click", hari() {
+    ctaButton.addEventListener("click", function() {
         alert("Thank you for your interest!");
     });
 });
